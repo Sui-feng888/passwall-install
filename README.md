@@ -8,7 +8,7 @@ https://github.com/xiaorouji/openwrt-passwall
 ## 前提条件
 
 - 操作系统：Linux
-- 依赖软件：bash
+- 依赖软件：sh
 
 
 ## 使用示例
